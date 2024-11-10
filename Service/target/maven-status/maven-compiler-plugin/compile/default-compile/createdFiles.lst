@@ -1,0 +1,11 @@
+com\james\ystechchallenge\service\impl\AccreditationServiceImpl.class
+com\james\ystechchallenge\service\model\AccreditationRequestCreateModel.class
+com\james\ystechchallenge\service\model\AccreditationRequestStatusUpdateModel.class
+com\james\ystechchallenge\service\mapping\ServiceModelToEntityMapperImpl.class
+com\james\ystechchallenge\service\abstraction\AccreditationService.class
+com\james\ystechchallenge\service\impl\AccreditationServiceImpl$1.class
+com\james\ystechchallenge\service\model\StatusInfoModel.class
+com\james\ystechchallenge\service\model\ServiceResult.class
+com\james\ystechchallenge\service\model\DocumentCreateModel.class
+com\james\ystechchallenge\service\model\AccreditationMetadataModel.class
+com\james\ystechchallenge\service\mapping\ServiceModelToEntityMapper.class

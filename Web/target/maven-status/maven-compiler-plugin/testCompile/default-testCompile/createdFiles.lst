@@ -1,0 +1,3 @@
+com\james\ystechchallenge\web\AccreditationRequestCreateDtoValidationTests.class
+com\james\ystechchallenge\web\OutcomeStatusDtoValidationTests.class
+com\james\ystechchallenge\web\DocumentCreateDtoValidationTests.class

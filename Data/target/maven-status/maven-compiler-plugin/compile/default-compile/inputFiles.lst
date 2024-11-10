@@ -1,0 +1,6 @@
+C:\Users\james\Documents\NetBeansProjects\YSTechChallenge\Data\src\main\java\com\james\ystechchallenge\data\abstraction\AccreditationRequestRepository.java
+C:\Users\james\Documents\NetBeansProjects\YSTechChallenge\Data\src\main\java\com\james\ystechchallenge\data\abstraction\AccreditationStatusRepository.java
+C:\Users\james\Documents\NetBeansProjects\YSTechChallenge\Data\src\main\java\com\james\ystechchallenge\data\abstraction\DocumentRepository.java
+C:\Users\james\Documents\NetBeansProjects\YSTechChallenge\Data\src\main\java\com\james\ystechchallenge\data\impl\InMemoryAccreditationRequestRepository.java
+C:\Users\james\Documents\NetBeansProjects\YSTechChallenge\Data\src\main\java\com\james\ystechchallenge\data\impl\InMemoryAccreditationStatusRepository.java
+C:\Users\james\Documents\NetBeansProjects\YSTechChallenge\Data\src\main\java\com\james\ystechchallenge\data\impl\InMemoryDocumentRepository.java

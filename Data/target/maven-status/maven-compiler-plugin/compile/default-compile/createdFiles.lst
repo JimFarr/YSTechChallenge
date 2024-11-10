@@ -1,0 +1,6 @@
+com\james\ystechchallenge\data\impl\InMemoryAccreditationStatusRepository.class
+com\james\ystechchallenge\data\abstraction\AccreditationRequestRepository.class
+com\james\ystechchallenge\data\impl\InMemoryAccreditationRequestRepository.class
+com\james\ystechchallenge\data\abstraction\AccreditationStatusRepository.class
+com\james\ystechchallenge\data\impl\InMemoryDocumentRepository.class
+com\james\ystechchallenge\data\abstraction\DocumentRepository.class

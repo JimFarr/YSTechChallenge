@@ -1,0 +1,6 @@
+com\james\ystechchallenge\datasyncdaemon\DataSyncDaemon.class
+com\james\ystechchallenge\datasyncdaemon\impl\DataSyncService.class
+com\james\ystechchallenge\datasyncdaemon\abstractions\AccreditationRequestExpirationService.class
+com\james\ystechchallenge\datasyncdaemon\config\SchedulerConfig.class
+com\james\ystechchallenge\datasyncdaemon\config\ServiceLocator.class
+com\james\ystechchallenge\datasyncdaemon\impl\AccreditationRequestExpirationServiceImpl.class

@@ -1,0 +1,8 @@
+com\james\ystechchallenge\core\enumeration\AccreditationStatusType.class
+com\james\ystechchallenge\core\config\AppConfig.class
+com\james\ystechchallenge\core\enumeration\FailureReason.class
+com\james\ystechchallenge\core\domain\Document.class
+com\james\ystechchallenge\core\constant\Constants.class
+com\james\ystechchallenge\core\enumeration\AccreditationRequestType.class
+com\james\ystechchallenge\core\domain\AccreditationRequest.class
+com\james\ystechchallenge\core\domain\AccreditationStatus.class
